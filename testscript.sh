@@ -1,0 +1,1 @@
+echo "testscript.sh executed succesfully om remote machine"
